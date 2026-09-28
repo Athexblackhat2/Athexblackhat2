@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d0d0d,100:001a00&height=220&section=header&text=ATHEX&fontSize=90&fontColor=00ff41&animation=blinking&fontAlignY=45&desc=◈%20BLACK%20HAT%20%7C%20MALWARE%20DEV%20%7C%20GHOST%20IN%20THE%20MACHINE%20◈&descAlignY=68&descColor=39ff14&descSize=14&stroke=00ff41&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d0d0d,100:001a00&height=220&section=header&text=ATHEX-BLACK-HAT&fontSize=90&fontColor=00ff41&animation=blinking&fontAlignY=45&desc=◈%20BLACK%20HAT%20%7C%20MALWARE%20DEV%20%7C%20GHOST%20IN%20THE%20MACHINE%20◈&descAlignY=68&descColor=39ff14&descSize=14&stroke=00ff41&strokeWidth=2" width="100%"/>
 
 </div>
 
@@ -171,24 +171,24 @@
 ## `[root@athex ~]# ./skill_scan.sh --target=self`
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║              [ ATHEX THREAT CAPABILITY MATRIX v2.0 ]            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Module                    ████████████ Score   Tier            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Social Engineering      ▓▓▓▓▓▓▓▓▓▓░  95%  [ ★ ELITE      ]  ║
-║  Malware Dev & Analysis  ▓▓▓▓▓▓▓▓▓░░  90%  [ ★ ELITE      ]  ║
-║  RAT & Payload Dev       ▓▓▓▓▓▓▓▓▓░░  88%  [ ▲ ADVANCED   ]  ║
-║  Penetration Testing     ▓▓▓▓▓▓▓▓▓░░  88%  [ ▲ ADVANCED   ]  ║
-║  Dark Web Research       ▓▓▓▓▓▓▓▓░░░  82%  [ ▲ ADVANCED   ]  ║
-║  Exploit Development     ▓▓▓▓▓▓▓▓░░░  80%  [ ▲ ADVANCED   ]  ║
-║  OSINT & Recon           ▓▓▓▓▓▓▓▓░░░  80%  [ ▲ ADVANCED   ]  ║
-║  Network Security        ▓▓▓▓▓▓▓░░░░  75%  [ ◆ INTER      ]  ║
-║  Reverse Engineering     ▓▓▓▓▓▓▓░░░░  65%  [ ◆ INTER      ]  ║
-║  Binary Exploitation     ▓▓▓▓▓▓░░░░░  60%  [ ◆ INTER      ]  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  [SYS] Overall Threat Rating : ████████░░  CRITICAL  ☠️         ║
-╚══════════════════════════════════════════════════════════════════╝
+
+              [ ATHEX THREAT CAPABILITY MATRIX v2.0 ]            
+
+  Module                    ████████████ Score   Tier            
+
+  Social Engineering      ▓▓▓▓▓▓▓▓▓▓░  95%  [ ★ ELITE      ]  
+  Malware Dev & Analysis  ▓▓▓▓▓▓▓▓▓░░  90%  [ ★ ELITE      ]  
+  RAT & Payload Dev       ▓▓▓▓▓▓▓▓▓░░  88%  [ ▲ ADVANCED   ]  
+  Penetration Testing     ▓▓▓▓▓▓▓▓▓░░  88%  [ ▲ ADVANCED   ]  
+  Dark Web Research       ▓▓▓▓▓▓▓▓░░░  82%  [ ▲ ADVANCED   ]  
+  Exploit Development     ▓▓▓▓▓▓▓▓░░░  80%  [ ▲ ADVANCED   ]  
+  OSINT & Recon           ▓▓▓▓▓▓▓▓░░░  80%  [ ▲ ADVANCED   ]  
+  Network Security        ▓▓▓▓▓▓▓░░░░  75%  [ ◆ INTER      ]  
+  Reverse Engineering     ▓▓▓▓▓▓▓░░░░  65%  [ ◆ INTER      ]  
+  Binary Exploitation     ▓▓▓▓▓▓░░░░░  60%  [ ◆ INTER      ]  
+
+[SYS] Overall Threat Rating : ████████░░  CRITICAL  ☠️         
+
 ```
 
 ---
@@ -266,12 +266,12 @@ if __name__ == "__main__":
 ## `[root@athex ~]# git log --oneline --graph`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33&border_radius=6&include_all_commits=true&count_private=true&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&border_radius=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Athexblackhat2&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33&border_radius=6&include_all_commits=true&count_private=true&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat2&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&border_radius=6" />
 </p>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com/?user=Athexblackhat&theme=terminal&border=00ff41&background=0d0d0d&stroke=00ff41&ring=39ff14&fire=ff0044&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&border_radius=6" />
+  <img width="72%" src="https://streak-stats.demolab.com/?user=Athexblackhat2&theme=terminal&border=00ff41&background=0d0d0d&stroke=00ff41&ring=39ff14&fire=ff0044&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&border_radius=6" />
 </p>
 
 ---
@@ -279,7 +279,7 @@ if __name__ == "__main__":
 ## `[root@athex ~]# grep -r "activity" /var/log/github/`
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ff0044&area=true&area_color=00ff4122&hide_border=false&border_color=00ff41&radius=6&custom_title=ATHEX+INTRUSION+ACTIVITY+LOG" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat2&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ff0044&area=true&area_color=00ff4122&hide_border=false&border_color=00ff41&radius=6&custom_title=ATHEX+INTRUSION+ACTIVITY+LOG" />
 </p>
 
 ---
@@ -287,7 +287,7 @@ if __name__ == "__main__":
 ## `[root@athex ~]# trophy --user=athex`
 
 <p align="center">
-  <img src="https://github-profile-trophy.zeabur.app/?username=athexblackhat&theme=matrix&no-frame=false&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews,MultiLanguage" />
+  <img src="https://github-profile-trophy.zeabur.app/?username=athexblackhat2&theme=matrix&no-frame=false&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews,MultiLanguage" />
 </p>
 
 ---
@@ -313,8 +313,8 @@ if __name__ == "__main__":
   <a href="https://www.youtube.com/@inzixploit444">
     <img src="https://img.shields.io/badge/YouTube-%40inzixploit444-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d0d" />
   </a>
-  <a href="https://github.com/Athexblackhat">
-    <img src="https://img.shields.io/badge/GitHub-Athexblackhat-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+  <a href="https://github.com/Athexblackhat2">
+    <img src="https://img.shields.io/badge/GitHub-Athexblackhat2-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
   </a>
 </p>
 
@@ -322,7 +322,7 @@ if __name__ == "__main__":
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Athexblackhat/Athexblackhat/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
