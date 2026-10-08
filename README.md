@@ -307,12 +307,6 @@ if __name__ == "__main__":
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&color=C9A961&center=true&vCenter=true&width=680&height=52&lines=IX.+Contribution+Skyline" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/contribution-skyline.svg" alt="ATHEX contribution skyline — the last 12 months of activity" width="100%" />
-</div>
-
 <!-- SNAKE CONTRIBUTION GRAPH -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/github-contribution-grid-snake-dark.svg" width="100%" />
