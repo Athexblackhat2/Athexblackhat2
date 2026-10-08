@@ -307,6 +307,10 @@ if __name__ == "__main__":
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/activity-graph.svg" alt="ATHEX BLACK HAT contribution activity graph" width="100%" />
+</div>
+
 <!-- SNAKE CONTRIBUTION GRAPH -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/github-contribution-grid-snake-dark.svg" width="100%" />
