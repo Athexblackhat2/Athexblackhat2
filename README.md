@@ -276,20 +276,6 @@ if __name__ == "__main__":
 
 ---
 
-## `[root@athex ~]# grep -r "activity" /var/log/github/`
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexblackhat2&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ff0044&area=true&area_color=00ff4122&hide_border=false&border_color=00ff41&radius=6&custom_title=ATHEX+INTRUSION+ACTIVITY+LOG" />
-</p>
-
----
-
-## `[root@athex ~]# trophy --user=athex`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=athexblackhat2&theme=matrix&no-frame=false&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews,MultiLanguage" />
-</p>
-
 ---
 
 <!-- HACKING GIF ROW 3 -->
