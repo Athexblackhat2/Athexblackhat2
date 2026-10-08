@@ -307,9 +307,13 @@ if __name__ == "__main__":
 
 ---
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- HACKER VIBE SNAKE GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Athexblackhat2/Athexblackhat2/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5B+INTRUSION+MAP+%5D+%E2%80%94+Every+green+pixel+is+a+system+breached.;%5B+GHOST+PROTOCOL+%5D+The+snake+doesn%27t+eat+your+contributions.+It+hides+them." alt="Hacker Vibe" />
 </p>
 
 ---
