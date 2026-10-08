@@ -313,7 +313,7 @@ if __name__ == "__main__":
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5B+INTRUSION+MAP+%5D+%E2%80%94+Every+green+pixel+is+a+system+breached.;%5B+GHOST+PROTOCOL+%5D+The+snake+doesn%27t+eat+your+contributions.+It+hides+them." alt="Hacker Vibe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5B+INTRUSION+MAP+%5D+%E2%80%94+Every+green+pixel+is+a+system+breached.;%5B+GHOST+PROTOCOL+%5D+The+snake+doesn%27t+eat+my+contributions.+It+hides+them." alt="Hacker Vibe" />
 </p>
 
 ---
